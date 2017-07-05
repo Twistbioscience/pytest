@@ -11,7 +11,7 @@ Please follow these steps to complete the process:
 3. Assuming users send links that are slow or even very slow, download the image using web application best
    practices. support urls such as:
    http://slowwly.robertomurray.co.uk/delay/10000/url/http://synbiobeta.com/wp-content/uploads/sites/4/2014/05/Twist-Bioscience-1.jpg
-4. Add permissions so only django users can create parties.
+4. Add permissions so only admin users can create parties.
 5. Add a feature to send each friend an email when they've joined a party.
 6. Build a Dockerfile for your project and provide the commands for running the application.
 7. Document your steps in steps.txt.
