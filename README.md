@@ -14,5 +14,5 @@ Please follow these steps to complete the process:
 4. Add permissions so only admin users can create parties.
 5. Add a feature to send each friend an email when they've joined a party.
 6. Build a Dockerfile for your project and provide the commands for running the application.
-7. Document your steps in steps.txt.
+7. Document your steps in steps.txt and add a instructions to run the app in the README.
 8. Good luck, see you on the other side!
