@@ -16,9 +16,11 @@ Please follow these steps to complete the process:
 6. Build a Dockerfile for your project and provide the commands for running the application using docker-compose (or similar).
 7. Document your steps in steps.txt
 8. Provide instructions on how to run the app from scratch in the README (and how to setup the system dependencies if needed).
-9. Good luck, see you on the other side!
+9. Verify that all the endpoints work from using CLI tools such as httpie or cURL
+10. Good luck, see you on the other side!
 
 Notes:
 - Python interpreter should be version 3.5 or later
 - Adding extra system dependencies (like redis or rabbitmq) is OK if needed.
 - Changing the database is OK if needed
+- In order to submit the solution either send us a link to your fork of this repo (preferred way) or send a zip file with the source code
