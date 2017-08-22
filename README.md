@@ -16,7 +16,7 @@ Please follow these steps to complete the process:
 6. Build a Dockerfile for your project and provide the commands for running the application using docker-compose (or similar).
 7. Document your steps in steps.txt
 8. Provide instructions on how to run the app from scratch in the README (and how to setup the system dependencies if needed).
-9. Verify that all the endpoints work from using CLI tools such as httpie or cURL
+9. Verify that all the endpoints work using CLI tools such as httpie or cURL
 10. Good luck, see you on the other side!
 
 Notes:
