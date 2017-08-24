@@ -14,7 +14,7 @@ Please follow these steps to complete the process:
 4. Add permissions so only admin users can create parties.
 5. Add a feature to send each friend an email when they've joined a party.
 6. Build a Dockerfile for your project and provide the commands for running the application using docker-compose (or similar).
-7. Document your steps in steps.txt
+7. Document relevant design and architecture decisions in the README
 8. Provide instructions on how to run the app from scratch in the README (and how to setup the system dependencies if needed).
 9. Verify that all the endpoints work using CLI tools such as httpie or cURL
 10. Good luck, see you on the other side!
